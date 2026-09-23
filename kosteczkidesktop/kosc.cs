@@ -8,6 +8,6 @@ namespace kosteczkidesktop
 {
     internal class kosc
     {
-        bool czy_dostepna;
+        
     }
 }
